@@ -1,2 +1,2 @@
 ![Certificate](Data_Analysis_with_Python.PNG)
-https://www.freecodecamp.org/certification/mjcs-95/scientific-computing-with-python-v7
+https://freecodecamp.org/certification/mjcs-95/data-analysis-with-python-v7
